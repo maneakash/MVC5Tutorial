@@ -1,0 +1,12 @@
+C:\Projects\MVC5Fundamental\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+C:\Projects\MVC5Fundamental\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+C:\Projects\MVC5Fundamental\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Projects\MVC5Fundamental\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+C:\Projects\MVC5Fundamental\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
+C:\Projects\MVC5Fundamental\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Projects\MVC5Fundamental\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll.config
+C:\Projects\MVC5Fundamental\OdeToFood.Data\bin\Debug\EntityFramework.dll
+C:\Projects\MVC5Fundamental\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\MVC5Fundamental\OdeToFood.Data\bin\Debug\EntityFramework.xml
+C:\Projects\MVC5Fundamental\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\MVC5Fundamental\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CopyComplete

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood.Data", "OdeToFood
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePageApplication", "SinglePageApplication\SinglePageApplication.csproj", "{9DDCB778-34DF-4067-B12B-DBE4B2CB0437}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIFundamental", "WebAPIFundamental\WebAPIFundamental.csproj", "{446F01E8-0B76-4DF2-B19E-76AEC6913794}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9DDCB778-34DF-4067-B12B-DBE4B2CB0437}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DDCB778-34DF-4067-B12B-DBE4B2CB0437}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DDCB778-34DF-4067-B12B-DBE4B2CB0437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{446F01E8-0B76-4DF2-B19E-76AEC6913794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446F01E8-0B76-4DF2-B19E-76AEC6913794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446F01E8-0B76-4DF2-B19E-76AEC6913794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446F01E8-0B76-4DF2-B19E-76AEC6913794}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,5 +5,6 @@ This project contains:
 2. Web apis
 3. Fluent validation
 4. Configure Autofac
+5. Entity framework
 
 
